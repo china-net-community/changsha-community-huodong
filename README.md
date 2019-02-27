@@ -1,4 +1,4 @@
-# changsha-community-huodong
+# 长沙.NET技术社区活动 公告板
 长沙.NET技术社区的一万种活动，总有一种能打动你的心~
 
 第一个活动：2019年3月10日，.NET Core和前后端那些事儿。 
