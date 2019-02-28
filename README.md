@@ -11,7 +11,7 @@
 ### 10、票价说明：至尊专享可参与会后的聚餐，跟其他开发者深入交流技术中遇到的坑....
 ### 11、为什么要这么low，是因为那些活动行软件都要收费，我要给社区省钱。
 #### 报名地址：https://www.wjx.top/jq/35103318.aspx
-![avatar](/home/picture/1.png) 
+![avatar](https://github.com/china-net-community/changsha-community-huodong/blob/master/docs/%E6%8A%A5%E5%90%8D%E4%BA%8C%E7%BB%B4%E7%A0%81.png) 
 
 
 
