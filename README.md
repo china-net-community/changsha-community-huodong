@@ -21,6 +21,7 @@
 ###### 4互动环节：10分钟
 ###### 5社区代表和暖场嘉宾发言，介绍他们对于社区的想法，30到40分钟
 ###### 6按十人一组分组讨论30分钟
+### 17、欢迎通过Issues的方式提出反馈。
  报名地址：https://www.wjx.top/jq/35103318.aspx
 ![avatar](https://github.com/china-net-community/changsha-community-huodong/blob/master/docs/%E6%8A%A5%E5%90%8D%E4%BA%8C%E7%BB%B4%E7%A0%81.png) 
 
